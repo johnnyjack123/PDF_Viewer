@@ -4,6 +4,10 @@ Moderner PDF-Viewer im Windows 11 Fluent Design-Stil.
 
 ## Schnellstart
 
+One-click installation: launcher.bat Datei doppelklicken
+
+oder manuell:
+
 ```bash
 pip install -r requirements.txt
 python fluentpdf.py
