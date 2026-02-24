@@ -18,8 +18,3 @@ python fluentpdf.py
 - Navigation per Pfeiltasten
 - Auto Dark/Light Mode (folgt Windows-Systemthema)
 - Live-Suche in der Bibliothek
-
-## Datenspeicherung
-Alle Daten unter ~/.fluentpdf/
-- library.json  -> Liste der PDFs
-- progress.json -> Lesefortschritt je PDF
